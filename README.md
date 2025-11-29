@@ -30,5 +30,7 @@ Dưới đây là mô tả các file quan trọng trong repository:
 
 ### 1. Clone dự án
 ```bash
-git clone [https://github.com/huywashere/CDTNKTCNTT1.git](https://github.com/huywashere/CDTNKTCNTT1.git)
+git clone https://github.com/huywashere/CDTNKTCNTT1.git
 cd CDTNKTCNTT1
+
+### 2. Cài đặt thư viện
