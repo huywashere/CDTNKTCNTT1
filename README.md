@@ -13,9 +13,9 @@ Mục tiêu của dự án là xây dựng một mô hình Học máy (Machine L
 Dưới đây là mô tả các file quan trọng trong repository:
 
 * **`DataFiles/`**: Thư mục chứa các file dữ liệu (dataset) dùng để train và test (ví dụ: `5.urldata.csv`).
-* **`URLFeatureExtraction.py`**: File mã nguồn Python chứa các hàm để trích xuất đặc trưng (feature) từ một đường link URL thô (ví dụ: kiểm tra độ dài, kiểm tra IP, check DNS...).
-* **`URL Feature Extraction.ipynb`**: Notebook minh họa chi tiết quy trình xử lý và trích xuất đặc trưng.
-* **`Phishing Website Detection_Nhom22.ipynb`**: **File chính**. Chứa toàn bộ quy trình từ tiền xử lý dữ liệu, trực quan hóa (EDA), huấn luyện nhiều mô hình (Decision Tree, Random Forest, XGBoost, SVM...) và đánh giá kết quả.
+* **`URLFeatureExtraction.py`**: File mã nguồn Python nhóm em chứa các hàm để trích xuất đặc trưng (feature) từ một đường link URL thô mục đích để thử nghiệm là chính (ví dụ: kiểm tra độ dài, kiểm tra IP, check DNS...).
+* **`URL Feature Extraction.ipynb`**: Notebook này chỉ để minh họa chi tiết quy trình xử lý và trích xuất đặc trưng ( hay còn là nháp của nhóm em).
+* **`Phishing Website Detection_Nhom22.ipynb`**: **File chính**. Chứa toàn bộ quy trình từ tiền xử lý dữ liệu là file chính để train mô hình mà nhóm em đã làm, trực quan hóa (EDA), huấn luyện nhiều mô hình (Decision Tree, Random Forest, XGBoost, SVM...) và đánh giá kết quả.
 * **`XGBoostClassifier.pickle.dat`**: File mô hình đã được huấn luyện xong và lưu lại (Pre-trained model). Có thể dùng để dự đoán ngay mà không cần train lại.
 
 ---
