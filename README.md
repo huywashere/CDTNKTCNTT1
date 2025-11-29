@@ -111,8 +111,8 @@ Khi bạn chạy file Notebook, hệ thống sẽ thực hiện các bước sau
 
 ## 📊 Kết quả
 
-Mô hình XGBoost đạt được độ chính xác cao nhất trong việc phát hiện website lừa đảo lên tới 86,4%. File model đã được lưu sẵn để sử dụng trực tiếp mà không cần huấn luyện lại.
-
+Mô hình XGBoost đạt được độ chính xác cao nhất trong việc phát hiện website lừa đảo lên tới 86,4%. File model đã được lưu sẵn để sử dụng trực tiếp mà không cần huấn luyện lại.  
+mô hình được lưu vào tệp ' XGBoostClassifier.pickle.dat '
 ---
 
 ## 📝 License
