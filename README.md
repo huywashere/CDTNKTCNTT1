@@ -6,6 +6,7 @@ Mục tiêu của dự án là xây dựng một mô hình Học máy (Machine L
 Được thực hiện bởi các thành viên:  
 Nguyễn Phú Huy  
 Võ Nhật Anh  
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Sklearn](https://img.shields.io/badge/Library-ScikitLearn-yellow)
