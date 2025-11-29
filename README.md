@@ -1,7 +1,8 @@
 # 🎣 Phishing Website Detection (Phát hiện Website Lừa đảo)
 
 Dự án này thuộc đồ án **Chuyên đề tốt nghiệp KTCNTT 1 - Nhóm 22**.
-Mục tiêu của dự án là xây dựng một mô hình Học máy (Machine Learning) có khả năng phân loại các URL là hợp pháp (Legitimate) hay lừa đảo (Phishing) dựa trên các đặc trưng được trích xuất từ URL đó.
+Mục tiêu của dự án là xây dựng một mô hình Học máy (Machine Learning) có khả năng phân loại các URL là hợp pháp (Legitimate) hay lừa đảo (Phishing) dựa trên các đặc trưng được trích xuất từ URL đó.  
+
 Được thực hiện bởi các thành viên:  
 Nguyễn Phú Huy  
 Võ Nhật Anh  
