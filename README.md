@@ -103,10 +103,7 @@ Khi bạn chạy file Notebook, hệ thống sẽ thực hiện các bước sau
 4. **Model Training & Evaluation**: Huấn luyện và đánh giá độ chính xác của các thuật toán:
    - Decision Tree
    - Random Forest
-   - Multilayer Perceptrons (MLP)
    - XGBoost (Best Model)
-   - AutoEncoder
-   - SVM
 
 5. **Save Model**: Mô hình tốt nhất (XGBoost) sẽ được lưu vào file `XGBoostClassifier.pickle.dat`.
 
@@ -114,7 +111,7 @@ Khi bạn chạy file Notebook, hệ thống sẽ thực hiện các bước sau
 
 ## 📊 Kết quả
 
-Mô hình XGBoost đạt được độ chính xác cao nhất trong việc phát hiện website lừa đảo. File model đã được lưu sẵn để sử dụng trực tiếp mà không cần huấn luyện lại.
+Mô hình XGBoost đạt được độ chính xác cao nhất trong việc phát hiện website lừa đảo lên tới 86,4%. File model đã được lưu sẵn để sử dụng trực tiếp mà không cần huấn luyện lại.
 
 ---
 
