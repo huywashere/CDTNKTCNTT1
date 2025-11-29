@@ -74,7 +74,7 @@ data0 = pd.read_csv('DataFiles/5.urldata.csv')
 
 5. Trên thanh menu, chọn **Runtime > Run all** (hoặc Chạy tất cả) để bắt đầu quá trình huấn luyện từ đầu đến cuối.
 
-6. Kết nối Data với drive (nếu sử dụng drive)
+6. Kết nối Data với drive (nếu sử dụng kết nối với drive).
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
